@@ -80,3 +80,5 @@ Lab Evidence
 Custom Wazuh Process-Creation Detection
 
 This screenshot below shows my custom Wazuh rule (100002) triggered on a Sysmon process-creation event during controlled lab testing.
+
+![Wazuh custom detection](./detections/wazuh-detection.jpg)

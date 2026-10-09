@@ -76,5 +76,7 @@ Disclaimer
 This project is for educational purposes and uses a controlled home lab. Investigation conclusions are based only on the evidence collected during each exercise.
 
 Lab Evidence
+
 Custom Wazuh Process-Creation Detection
+
 This screenshot below shows my custom Wazuh rule (100002) triggered on a Sysmon process-creation event during controlled lab testing.
